@@ -20,8 +20,32 @@
     "status effect": "soaked",
     "stat": {
       "damage": 0.85,
-      "
-    "imbue":
+      "speed": 1,
+      "size": 1.2
+    },
+    "imbue": {
+      "damage": 0.925,
+      "speed": 1,
+      "size": 1.278
+    }
+  },
+  {
+    "name": "Boxing",
+    "status effect": "none",
+    "block power": 10,
+    "stat": {
+      "damage": 0.8,
+      "speed": 1.2,
+      "size": 1.0
+    }
+    "imbue": {
+      "damage": 0.9,
+      "speed": 1.2,
+      "size": 1.056
+    }
+  },
+  {
+    "name": "
     
 ]
      

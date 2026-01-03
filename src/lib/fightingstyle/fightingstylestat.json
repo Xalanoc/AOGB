@@ -45,7 +45,24 @@
     }
   },
   {
-    "name": "
+    "name": "Cannon Fist",
+    "status effect": "bleeding",
+    "passive": "+50% projectile speed. 40% on imbue",
+    "projectile speed": 50,
+    "imbued speed": 40,
+    "stat": {
+      "damage": 0.7,
+      "speed": 1.0,
+      "size": 1.0
+    },
+    "imbue": {
+      "damage": 0.85",
+      "speed": 1.0,
+      "size": 1.056
+    }
+  },
+  {
+      
     
 ]
      

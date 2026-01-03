@@ -1,9 +1,9 @@
 [
   {
     "name": "Basic Combat",
-    "ismeterused": 0,
-    "status effect": 0,
-    "stats": {
+    "ismeterused": false,
+    "status effect": "none",
+    "stat": {
      "damage": 0.925,
      "speed": 1,
      "size": 1
@@ -13,6 +13,15 @@
      "speed": 1,
      "size": 1.056
     }
-  }
+  },
+  {
+    "name": "Sailor Style",
+    "ismeterused": true,
+    "status effect": "soaked",
+    "stat": {
+      "damage": 0.85,
+      "
+    "imbue":
+    
 ]
      

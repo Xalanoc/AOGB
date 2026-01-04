@@ -1,7 +1,6 @@
 [
   {
     "name": "Basic Combat",
-    "ismeterused": false,
     "status effect": "none",
     "stat": {
      "damage": 0.925,
@@ -16,7 +15,6 @@
   },
   {
     "name": "Sailor Style",
-    "ismeterused": true,
     "status effect": "soaked",
     "stat": {
       "damage": 0.85,
@@ -62,7 +60,62 @@
     }
   },
   {
-      
-    
+    "name": "Thermo Fist",
+    "status effect": "searing",
+    "stat": {
+      "damage": 0.75,
+      "speed": 1.3,
+      "size": 0.8
+    },
+    "imbue": {
+      "damage": 0.85,
+      "speed": 1.3,
+      "size": 0.833
+    }
+  },
+  {
+    "name":Powder Fist",
+    "status effect": "charred",
+    "passive": "2nd hit damage 37.5%, size 13%, hit delay 0.75s",
+    "stat": {
+      "damage": ,
+      "speed": ,
+      "sizd": 
+    },
+    "imbue": {
+      "damage": ,
+      "speed": ,
+      "size": 
+    }
+  },
+  {
+    "name": "Iron Leg",
+    "status effect": "bleeding",
+    "stat": {
+      "damage": 0.95,
+      "speed": 0.75,
+      "size": 1.1
+    },
+    "imbue": {
+      "damage": 1.125,
+      "speed": 0.75,
+      "size": 1.167
+    }
+  },
+  {
+    "name": "Vanishing Style",
+    "status effect": "none",
+    "passive": "crit",
+    "stat": {
+      "damage": 0.85,
+      "speed": 1.1,
+      "size": 1.0
+    },
+    "imbue": {
+      "damage": 1.0,
+      "speed": 1.1,
+      "size": 1.056
+    }
+  }
 ]
      

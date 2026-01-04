@@ -78,14 +78,14 @@
     "status effect": "charred",
     "passive": "2nd hit damage 37.5%, size 13%, hit delay 0.75s",
     "stat": {
-      "damage": ,
-      "speed": ,
-      "sizd": 
+      "damage": 0.75,
+      "speed": 0.9,
+      "sizd": 1.05
     },
     "imbue": {
-      "damage": ,
-      "speed": ,
-      "size": 
+      "damage": 0.9,
+      "speed": 0.9,
+      "size": 1.11
     }
   },
   {

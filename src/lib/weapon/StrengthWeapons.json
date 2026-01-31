@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Colossal Greatsword",
+    "rarity": "Uncommon",
+    "status": "Bleeding",
+    "stat": {
+      "damage": 1.175,
+      "size": 1.2,
+      "speed": 0.65
+    }

@@ -1,6 +1,7 @@
 [
   {
     "name": "Colossal Greatsword",
+    "type": "Colodsal Bladed",
     "rarity": "Uncommon",
     "quality": "Good",
     "status": "Bleeding",
@@ -9,3 +10,19 @@
       "size": 1.2,
       "speed": 0.65
     }
+  },
+  {
+    "name": "Goldreaver",
+    "type": "Colossal Bladed",
+    "rarity": "Uncommon",
+    "quality": "Good",
+    "status": "Bleeding",
+    "stat": {
+      "damage": 1.05,
+      "size": 1.4,
+      "speed": 0.65
+    }
+  },
+  {
+    
+    

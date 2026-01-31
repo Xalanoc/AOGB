@@ -2,6 +2,7 @@
   {
     "name": "Colossal Greatsword",
     "rarity": "Uncommon",
+    "quality": "Good",
     "status": "Bleeding",
     "stat": {
       "damage": 1.175,

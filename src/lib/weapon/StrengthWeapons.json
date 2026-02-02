@@ -24,5 +24,19 @@
     }
   },
   {
+    "name": "Lance Of Loyalty",
+    "type": "Colossal Thrusting",
+    "rarity": "Rare",
+    "quality": "Good",
+    "status": "Bleeding",
+    "stat" {
+      "damage": 1.1,
+      "size": 1.25,
+      "speed": 0.675
+    }
+  },
+  {
+      
+    
     
     
